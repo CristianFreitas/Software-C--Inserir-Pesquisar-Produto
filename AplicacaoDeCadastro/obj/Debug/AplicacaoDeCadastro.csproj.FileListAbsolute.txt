@@ -1,0 +1,19 @@
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\bin\Debug\AplicacaoDeCadastro.exe.config
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\bin\Debug\AplicacaoDeCadastro.exe
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\bin\Debug\AplicacaoDeCadastro.pdb
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\bin\Debug\MySql.Data.dll
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\bin\Debug\MySql.Web.dll
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.csprojResolveAssemblyReference.cache
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.csproj.AplicacaoDeCadastro.exe.config
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.cadastro_produto.resources
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.Properties.Resources.resources
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.csproj.GenerateResource.Cache
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.exe
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.pdb
+C:\Repositorio\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.pesquisa_produto.resources
+C:\csharp\WindowsFormsApplication1\AplicacaoDeCadastro\bin\Debug\AplicacaoDeCadastro.exe.config
+C:\csharp\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.exe
+C:\csharp\WindowsFormsApplication1\AplicacaoDeCadastro\obj\Debug\AplicacaoDeCadastro.pdb
